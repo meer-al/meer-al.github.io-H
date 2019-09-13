@@ -303,7 +303,8 @@ plugins:
 # social:
 #   name:                <firstname> <lastname>
 #   links:
-#     - https://twitter.com/<username>
+     - https://twitter.com/aniv0s
+     mailto:fish.in.clouds@gmail.com
 #     - https://github.com/<username>
 
 
