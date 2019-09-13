@@ -39,20 +39,20 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Lissa Ana Meer Alissa>
+  email:               <fish.in.clouds@gmail.com>
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             <https://twitter.com/aniv0s>
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
+  - title:             Vivid Poetry / Blog
     url:               /hydejack/
-  - title:             Hyde
+  - title:             Selected Projects
     url:               /hyde/
-  - title:             Documentation
+  - title:             ArchiMediala
     url:               /docs/
-  - title:             About
+  - title:             About Us
     url:               /about/
 
 # Add links to the footer.
@@ -64,7 +64,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2018. All rights reserved.
+copyright:             © 2018 MEER.AL All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
